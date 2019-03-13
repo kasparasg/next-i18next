@@ -58,7 +58,7 @@
     "babel-plugin-add-module-exports": "^1.0.0",
     "babel-plugin-transform-async-to-generator": "^6.24.1",
     "enzyme": "^3.9.0",
-    "enzyme-adapter-react-16": "^1.7.1",
+    "enzyme-adapter-react-16": "^1.11.0",
     "eslint": "^5.12.1",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.14.0",
